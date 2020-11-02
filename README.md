@@ -1,3 +1,3 @@
-# Javascript Hackerrank Solutions
+# Javascript Hacker Rank Solutions
 
-Solutions to HackerRank's 10 Days of Javascript challenge.
+Solutions to Hacker Rank's 10 Days of Javascript challenge.
